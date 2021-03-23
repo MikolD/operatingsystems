@@ -3,6 +3,8 @@ Group Work for Operating Systems Course containing practical implementations of 
 
 *Below we have a description of what each of the Operating System Concepts we coded mean.*
 
+> Dont forget to run the project from the main.cpp file 
+
 ### FCFS CPU SCHEDULING ALGORITHM
 For FCFS scheduling algorithm, read the number of processes/jobs in the system, their CPU burst times. The 
 scheduling is performed on the basis of arrival time of the processes irrespective of their other parameters. Each 
